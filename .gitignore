@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Banco de dados local
+*.db
+
+# Node / React
+node_modules/
+dist/
+
+# Editor / sistema
+.vscode/
+.DS_Store
+.env
